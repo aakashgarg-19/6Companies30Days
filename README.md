@@ -20,10 +20,5 @@ You need to start the challenge by putting in a post on LinkedIn , Instagram, Tw
 Than after every 5 days once a company is done , you can make a post announcing your milestones - Milestone -1 (When company 1 is completed) , Milestone -2 (When company 2 is completed).
 Let’s get started!
 
-## Company Name : Goldman Sachs
-
-Questions :
-### Day 1
-Given an array of strings, return all groups of strings that are anagrams. <a href = "https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/">[LINK]<a>
-<br>Overlapping rectangles <a href = "https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/">[LINK]<a>
-<br>Count the subarrays having product less than k <a href = "https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/">[LINK]<a>
+## First Company Name : Goldman Sachs
+Questions List : <a href = "https://docs.google.com/document/d/e/2PACX-1vRgrSl5zCl8P92F0qNuJyDF9v8aqfNd1UB9fQWTb-_aohzhPbZ0GOVbXvfnGHgzbWWdkf9gr7ZgM0lj/pub">[LINK]<a>
